@@ -6,6 +6,60 @@
 
 JUNTA digitizes the traditional concept of rotating savings and credit associations (ROSCAs), enabling groups of participants to pool funds and take turns receiving the full amount in a secure and automated manner. Using sBTC as the main currency, JUNTA aims to provide access to liquidity and community-driven savings in a decentralized way, all while being secured by the Bitcoin blockchain.
 
+### Example Process of a JUNTA
+
+Let’s go through a step-by-step example of how JUNTA would work in a real-world scenario:
+
+#### 1. **Alice Starts a JUNTA:**
+   - Alice creates a new JUNTA with the following parameters:
+     - **Number of Participants:** 5
+     - **Contribution Amount per Participant:** 100 sBTC
+     - **Duration:** 5 months (one round per month)
+   - Alice becomes the **leader** of the JUNTA and her information is stored in the smart contract.
+   - The contract is deployed, and Alice's JUNTA is open for participants to join.
+
+#### 2. **Bob Joins the JUNTA:**
+   - Bob sees Alice's JUNTA listed in the dApp.
+   - He decides to join and commits to contributing 100 sBTC every month.
+   - Bob’s participation is recorded in the smart contract.
+   - The number of participants in the JUNTA now increases to 2.
+
+#### 3. **Charlie, David, and Eve Join the JUNTA:**
+   - Charlie, David, and Eve each join the JUNTA.
+   - They agree to the same terms and commit 100 sBTC each per month.
+   - Now, there are 5 participants, including Alice.
+   - The smart contract marks the JUNTA as **full** and the participation phase ends.
+
+#### 4. **First Month Contribution & Allocation:**
+   - All participants (Alice, Bob, Charlie, David, and Eve) contribute 100 sBTC to the JUNTA smart contract.
+   - Total pool amount for the first month is **500 sBTC**.
+   - The smart contract automatically allocates the total 500 sBTC to Alice (the leader and first recipient).
+   - Alice receives the total amount, while the remaining 4 participants will continue contributing over the next months.
+
+#### 5. **Second Month Contribution & Allocation:**
+   - In the second month, the remaining 4 participants (Bob, Charlie, David, and Eve) each contribute another 100 sBTC.
+   - Alice, having received her turn already, does not contribute again.
+   - The total pool amount is 400 sBTC.
+   - The smart contract allocates the 400 sBTC to Bob as per the predefined rotation order.
+   - Bob receives the funds, and the rotation proceeds.
+
+#### 6. **Subsequent Months and Final Round:**
+   - The process repeats each month:
+     - **Third Month**: Contributions from Charlie, David, Eve, and Alice. Funds go to Charlie.
+     - **Fourth Month**: Contributions from David, Eve, Alice, and Bob. Funds go to David.
+     - **Fifth Month**: Contributions from Eve, Alice, Bob, and Charlie. Funds go to Eve.
+   - After the fifth month, every participant has received the total pool amount once.
+
+#### 7. **Completion and Rewards:**
+   - Upon completion, each participant who contributed as promised receives a bonus reward of the dApp's native token, $HUN.
+   - If any participant had delayed or missed a contribution, they would have been penalized in reputation or ranking.
+   - The JUNTA is marked as completed, and participants are free to join or create new JUNTAs.
+
+### Additional Processes and Considerations:
+- **Early Exit**: If a participant decides to exit the JUNTA before their turn, the smart contract will penalize them (e.g., losing rewards or reputation).
+- **Referral Rewards**: If Alice refers new participants (like Bob, Charlie, David, or Eve) to the dApp, she can earn additional $HUN tokens for each new user.
+- **P2P sBTC Acquisition**: Participants can acquire sBTC via P2P trades within the platform, making it easier for them to join JUNTAs without external exchanges.
+
 ## 💡 Features
 
 - **Secure Fund Pooling**: Contributions are locked in a smart contract and distributed to participants in a predetermined order.
