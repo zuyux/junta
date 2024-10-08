@@ -1,6 +1,6 @@
 # JUNTA dApp
 
-**JUNTA** is a decentralized ROSCA (Rotating Savings and Credit Association) dApp built on the [Stacks](https://www.stacks.co) blockchain. This application leverages smart contracts and sBTC to facilitate transparent, secure, and trustless community savings pools.
+**JUNTA** is a decentralized ROSCA (Rotating Savings and Credit Association) dApp built on the [Stacks](https://www.stacks.co) blockchain. This application leverages smart contracts and sBTC to facilitate transparent, secure, and trustful community savings pools.
 
 ## 📌 Project Overview
 
