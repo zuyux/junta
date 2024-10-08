@@ -6,9 +6,7 @@
 
 JUNTA digitizes the traditional concept of rotating savings and credit associations (ROSCAs), enabling groups of participants to pool funds and take turns receiving the full amount in a secure and automated manner. Using sBTC as the main currency, JUNTA aims to provide access to liquidity and community-driven savings in a decentralized way, all while being secured by the Bitcoin blockchain.
 
-### Example Process of a JUNTA
-
-Let’s go through a step-by-step example of how JUNTA would work in a real-world scenario:
+### How JUNTA works
 
 #### 1. **Alice Starts a JUNTA:**
    - Alice creates a new JUNTA with the following parameters:
