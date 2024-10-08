@@ -29,14 +29,13 @@ JUNTA digitizes the traditional concept of rotating savings and credit associati
    - The smart contract marks the JUNTA as **full** and the participation phase ends.
 
 #### 4. **First Month Contribution & Allocation:**
-   - All participants (Alice, Bob, Charlie, David, and Eve) contribute 100 sBTC to the JUNTA smart contract.
-   - Total pool amount for the first month is **500 sBTC**.
-   - The smart contract automatically allocates the total 500 sBTC to Alice (the leader and first recipient).
+   - Bob, Charlie, David, and Eve contribute 100 sBTC to the JUNTA smart contract.
+   - Total pool amount for the first month is **400 sBTC**.
+   - The smart contract automatically allocates the total 400 sBTC to Alice (the leader and first recipient).
    - Alice receives the total amount, while the remaining 4 participants will continue contributing over the next months.
 
 #### 5. **Second Month Contribution & Allocation:**
-   - In the second month, the remaining 4 participants (Bob, Charlie, David, and Eve) each contribute another 100 sBTC.
-   - Alice, having received her turn already, does not contribute again.
+   - In the second month,(Alice, Charlie, David, and Eve) each contribute another 100 sBTC.
    - The total pool amount is 400 sBTC.
    - The smart contract allocates the 400 sBTC to Bob as per the predefined rotation order.
    - Bob receives the funds, and the rotation proceeds.
