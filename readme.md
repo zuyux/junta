@@ -55,7 +55,7 @@ JUNTA digitizes the traditional concept of rotating savings and credit associati
 
 ### Additional Processes and Considerations:
 - **Early Exit**: If a participant decides to exit the JUNTA before their turn, the smart contract will penalize them (e.g., losing rewards or reputation).
-- **Referral Rewards**: If Alice refers new participants (like Bob, Charlie, David, or Eve) to the dApp, she can earn additional $HUN tokens for each new user.
+- **Referral Rewards**: If Alice refers new participants (like Bob, Charlie, David, or Eve) to the dApp, she can earn additional $ROX tokens for each new user that completes round.
 - **P2P sBTC Acquisition**: Participants can acquire sBTC via P2P trades within the platform, making it easier for them to join JUNTAs without external exchanges.
 
 ## 💡 Features
@@ -117,7 +117,7 @@ JUNTA digitizes the traditional concept of rotating savings and credit associati
 - [ ] Implement UI for creating and managing juntas
 - [ ] Integration with P2P sBTC exchanges
 - [ ] Launch mainnet deployment
-- [ ] Implement staking mechanism for $ROS token
+- [ ] Implement staking mechanism for $ROX token
 
 ## 🛡️ Security
 
