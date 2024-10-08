@@ -49,7 +49,7 @@ JUNTA digitizes the traditional concept of rotating savings and credit associati
    - After the fifth month, every participant has received the total pool amount once.
 
 #### 7. **Completion and Rewards:**
-   - Upon completion, each participant who contributed as promised receives a bonus reward of the dApp's native token, $HUN.
+   - Upon completion, each participant who contributed as promised receives a bonus reward of the dApp's native token, $ROX.
    - If any participant had delayed or missed a contribution, they would have been penalized in reputation or ranking.
    - The JUNTA is marked as completed, and participants are free to join or create new JUNTAs.
 
@@ -63,7 +63,7 @@ JUNTA digitizes the traditional concept of rotating savings and credit associati
 - **Secure Fund Pooling**: Contributions are locked in a smart contract and distributed to participants in a predetermined order.
 - **Automated Fund Allocation**: The smart contract manages fund allocation and payouts automatically based on predefined rules.
 - **Penalty System**: Late contributions or early exits are penalized through a ranking system, ensuring reliability.
-- **Reward Mechanism**: Participants and P2P traders earn the native $ROS token as rewards for completing rounds successfully.
+- **Reward Mechanism**: Participants and P2P traders earn the native $ROX token as rewards for completing rounds successfully.
 - **Integration with sBTC**: sBTC is used for all transactions, enabling the use of Bitcoin's liquidity in the JUNTA dApp.
 
 ## ⚙️ Technology Stack
